@@ -1,1 +1,1 @@
-I have a website, [liturgygeek.com](http://liturgygeek.com), which I am in the process of revising and modernizing. The site has a lot of useful logic for the niche use case of liturgical calendars and lectionary readings. I will be making the rewrite open source and publishing it here.
+I have a website, [liturgygeek.com](https://liturgygeek.com), which I am in the process of revising and modernizing. The site has a lot of useful logic for the niche use case of liturgical calendars and lectionary readings. I will be making the rewrite open source and publishing it here.
